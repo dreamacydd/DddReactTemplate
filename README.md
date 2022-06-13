@@ -1,6 +1,6 @@
 # One React, hold the onions!
 
-[![License](https://img.shields.io/github/license/waellison/react-without-cra)](#)
+[![License](https://img.shields.io/github/license/dreamacydd/react-without-cra)](#)
 
 This is a React app created from the ground up, without resorting to the
 use of Create-React-App.
